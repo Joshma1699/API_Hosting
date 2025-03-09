@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.env
+k8s-manifests/configmap.yaml
+k8s-manifests/secret.yaml
+.vscode/
+*.log
+database/.vscode/
+.dockerignore
+.DS_Store
